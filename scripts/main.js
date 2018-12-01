@@ -6,3 +6,9 @@ var members = [
   'Rami Jaffee',
   'Chris Shiflett'
 ];
+
+var tour = {
+  Chicago: 'July 29th & 30th, 2018',
+  Seattle: 'September 1st, 2018',
+  Edmonton: 'September 4th, 2018'
+};
